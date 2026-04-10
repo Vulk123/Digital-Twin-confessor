@@ -1,0 +1,62 @@
+body {
+  background-color: #f6f2ff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.big-title {
+  font-size: 3em;
+  /* color: #5e35b1; */
+  color: white;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.sub-text {
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  margin-bottom: 2em;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.start-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+  color: #5e35b1;
+}
+
+.confess-box {
+  background-color: #1e1e2f;
+  color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 0 20px #5e35b1;
+}
+
+.chat-bubble {
+  padding: 15px;
+  border-radius: 12px;
+  margin: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  font-size: 1rem;
+}
+
+.user {
+  background-color: #ffffffcc;
+  color: #000;
+  margin-left: auto;
+  text-align: left;
+}
+
+.bot {
+  background-color: #1e1e2fcc;
+  color: white;
+  margin-right: auto;
+  text-align: left;
+}
