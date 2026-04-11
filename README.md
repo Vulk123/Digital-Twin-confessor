@@ -51,6 +51,6 @@ Whether you're dealing with guilt, regret, or grief — **Digital Confessor is y
 
 ## 🚀 Try it now
 
-👉 [Click here to try the live app](https://digital-twin-cs-girlies.streamlit.app/)
+👉 [Click here to try the live app](https://digital-twin-confeappr-xwktr9sbb8bddc2linmhab.streamlit.app/)
 
 > 💻 Made with ❤️ by CS Girlies – because emotions deserve a voice, too.
