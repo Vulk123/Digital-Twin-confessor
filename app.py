@@ -47,7 +47,7 @@ def go_to_chat():
 
 # -------------------- Page 1: Intro --------------------
 if st.session_state.page == "intro":
-    st.markdown("<div class='big-title'>Digital Twin Confessor</div>", unsafe_allow_html=True)
+    st.markdown("<div class='big-title'>AI-NA : Digital Twin Confessor</div>", unsafe_allow_html=True)
     st.markdown("<div class='sub-text'>Let your digital self confess what your real self hides. Dive into an emotional reflection experience powered by AI.</div>", unsafe_allow_html=True)
 
     # Centered button using columns
